@@ -17,7 +17,7 @@
 | ------ | ------ | ------ |
 | Ethereum | $ETH | https://twitter.com/ethereum |
 | Biconomy | $BICO | https://twitter.com/biconomy |
-| Flow Blockhain| $FLOW | https://twitter.com/flow_blokchain | 
+| Flow Blockhain| $FLOW | https://twitter.com/flow_blockchain | 
 | Binance | $BNB | https://twitter.com/binance |
 | Avax | $AVAX | https://twitter.com/avalancheavax |
 | Poligon | $MATIC | https://twitter.com/0xPolygon |
