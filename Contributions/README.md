@@ -15,4 +15,4 @@
 | ------------- | ---- |
 | Inery | https://explorer.inery.io/master-nodes/account_info/?name=annisadewi |
 | Minima | https://incentive.minima.global/account/register?inviteCode=ANQUEMVC |
-| Parastate | https://explorer-testnet.safestake.xyz/operators/0xD59e8BA38AF2C3510599d64bfE7e8C28fee9E2Ec |
+| Parastate | https://explorer-testnet.safestake.xyz/validators/0xa5e0ca2e92d1737137255a2db84d4f8c4d1fe107b680c19ca81ad8761142fa36ef30e2f9b5ed32f7b0ede68eba8dddff |
