@@ -3,14 +3,14 @@
 
 #### **Tentang Saya**
 Nama: Prastian Hidayat  
+
 Posisi: 
 - Full Stack Web3 Developer 
 - Blockchain Enthusiast 
-- Crypto Analyst 
-- Web3 Community Manager  
+- Crypto Analyst Research 
+- Web3 Community Manager
+
 Email: prastianhd@gmail.com 
-Website: [nodeinter.net](https://nodeinter.net)  
-Twitter: [Link ke Twitter Anda]
 
 #### **Pengenalan**
 Saya telah terlibat dalam dunia blockchain sejak tahun 2019 dan memiliki pemahaman mendalam tentang teknologi blockchain, Bitcoin (BTC), cryptocurrency, airdrop, testnet, retroactive, dan trading spot. Saya juga memiliki pengalaman dalam mengelola pasar kripto global dan memahami berbagai macam cryptocurrency.
