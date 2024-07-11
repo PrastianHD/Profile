@@ -30,7 +30,7 @@ Saya telah terlibat dalam dunia blockchain sejak tahun 2019 dan memiliki pemaham
 - Mengelola grup tentang airdrop dan private sale.
 
 **Website dan Komunitas:**
-- Pemilik dan pengelola website [KriptoHub](https://kriptohub) untuk pemula blockchain.
+- Pemilik dan pengelola website [KriptoHub](https://kriptohub.gitbook.io/hub)) untuk pemula blockchain.
 - Pemilik dan pengelola website [NodeInter](https://nodeinter.net) untuk informasi tentang node dan validator.
 - Aktif di Twitter dan sering menjadi content creator.
 - Aktif sebagai tutorialist untuk berbagai topik blockchain dan crypto.
